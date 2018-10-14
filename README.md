@@ -1,6 +1,6 @@
-# online-quiz
-python quiz
-The application is implemented using tkinter, a package in python which helps to creation of GUI. 
+# Online-Quiz
+Python Quiz:
+This application is implemented using tkinter, a package in python which helps to creation of GUI. 
 The code is written in python, which also includes the multiple-choice questions.
 The .py file is linked with the database which has the username and the corresponding password.
 The user will be able to attempt the quiz only if his/her username and password matches the one in the database. 
